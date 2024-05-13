@@ -1,0 +1,7 @@
+com.warehouse.clustereddata
+com.warehouse.clustereddata.binding
+com.warehouse.clustereddata.controller
+com.warehouse.clustereddata.repo
+com.warehouse.clustereddata.service
+com.warehouse.clustereddata.util
+com.warehouse.clustereddata.validator

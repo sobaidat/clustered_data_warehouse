@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: clustered_data_warehouse
+  datasource:
+    username: root
+    password: 1234
+    url: jdbc:mysql://localhost:3306/cdw
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    
+    
