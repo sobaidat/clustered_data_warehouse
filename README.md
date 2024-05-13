@@ -20,3 +20,16 @@ To run the project, execute the following command in your terminal:
 make run
 ```
 
+## Test
+To run test examples, execute the following command in your terminal:
+
+```bash
+make test
+```
+
+## Test + Coverage
+To run test examples with coverage report, execute the following command in your terminal:
+
+```bash
+make test-with-coverage
+```
